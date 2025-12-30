@@ -7,5 +7,8 @@
     <Project Path="Lesson2/TCP_Demo.Client/TCP_Demo.Client.csproj" Id="89c39f0c-d276-4cac-abc0-77c22be5944e" />
     <Project Path="Lesson2/TCP_Demo.Server/TCP_Demo.Server.csproj" Id="00190bd9-57a1-4dba-acbe-53652e91c8d9" />
   </Folder>
+  <Folder Name="/Lesson3/">
+    <Project Path="Lesson3/HTTPS.Demo/HTTPS.Demo.csproj" Id="645cef4d-7a80-4cc6-b6bb-cc204590231d" />
+  </Folder>
   <Project Path="NetProgramming/NetProgramming.csproj" />
 </Solution>
