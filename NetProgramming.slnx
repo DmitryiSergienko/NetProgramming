@@ -10,5 +10,10 @@
   <Folder Name="/Lesson3/">
     <Project Path="Lesson3/HTTPS.Demo/HTTPS.Demo.csproj" Id="645cef4d-7a80-4cc6-b6bb-cc204590231d" />
   </Folder>
+  <Folder Name="/Lesson4/">
+    <Project Path="Lesson4/HTTP.Client/HTTP.Client.csproj" Id="f396d6e6-1add-4b99-82e2-669384a8befb" />
+    <Project Path="Lesson4/HTTP.Models/HTTP.Models.csproj" Id="7a890765-068d-48bb-b685-2c0256f61f99" />
+    <Project Path="Lesson4/HTTP.Server/HTTP.Server.csproj" Id="d2738d7d-2535-4667-88c7-5ca5830c83a3" />
+  </Folder>
   <Project Path="NetProgramming/NetProgramming.csproj" />
 </Solution>
